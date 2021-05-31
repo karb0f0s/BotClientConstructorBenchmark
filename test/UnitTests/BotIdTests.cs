@@ -2,7 +2,7 @@ using System;
 using TokenOnlyClient;
 using Xunit;
 
-namespace TestProject1
+namespace Telegram.Bot.Tests.Unit
 {
     public class BotIdTests
     {
